@@ -1,2 +1,2 @@
 # Stock-Price-Analysis-with-Information-Theory
-Code for TBSI Applied Information Theory course project
+Code for Tsinghua University Applied Information Theory course project
