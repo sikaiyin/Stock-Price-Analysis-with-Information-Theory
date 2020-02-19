@@ -1,2 +1,2 @@
 # Stock-Price-Analysis-with-Information-Theory
-Code for Tsinghua University Applied Information Theory course project
+Project Folder for Tsinghua University Applied Information Theory Final Project, Fall 2018.
